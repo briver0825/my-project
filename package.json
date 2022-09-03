@@ -1,0 +1,28 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@unocss/preset-attributify": "^0.45.14",
+    "@unocss/preset-uno": "^0.45.14",
+    "@unocss/transformer-directives": "^0.45.14",
+    "@unocss/transformer-variant-group": "^0.45.14",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "path": "^0.12.7",
+    "sass": "^1.54.8",
+    "unocss": "^0.45.14",
+    "unplugin-auto-import": "^0.11.2",
+    "vite": "^3.0.9"
+  },
+  "dependencies": {
+    "@unocss/reset": "^0.45.14",
+    "@vueuse/core": "^9.1.1",
+    "axios": "^0.27.2",
+    "pinia": "^2.0.21",
+    "vue": "^3.2.38",
+    "vue-router": "4"
+  }
+}
